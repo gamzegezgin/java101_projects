@@ -2,8 +2,6 @@ package java101Projects;
 
 import java.util.Scanner;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 public class horoscope {
 
 	public static void main(String[] args) {
